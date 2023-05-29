@@ -22,8 +22,8 @@ To write a python program for simulating RARP protocols using UDP.
 ```
 ### PROGRAM :
 ```
-Developed By: G Venkata Pavan Kumar
-Reg. No.: 212221240013
+Developed By: karna S
+Reg. No.: 212222110017
 ```
 #### Client Side:
 ```
